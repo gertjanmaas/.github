@@ -45,4 +45,4 @@ logs, and code as it's tough to read otherwise. -->
 
 ## Other links/references
 
-<!-- E.g. related GitLab issues/MRs -->
+<!-- E.g. related GitHub issues/MRs -->

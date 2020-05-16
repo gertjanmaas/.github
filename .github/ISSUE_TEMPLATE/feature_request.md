@@ -36,7 +36,7 @@ It's okay to write "Unknown" and fill this field in later. -->
 
 ## Proposal
 
-<!-- How are we going to solve the problem? Try to include the user journey! https://about.gitlab.com/handbook/journeys/#user-journey -->
+<!-- How are we going to solve the problem? Try to include the user journey! -->
 
 ## Documentation
 
@@ -61,4 +61,4 @@ If there is no way to measure success, link to an issue that will implement a wa
 
 ## Other links/references
 
-<!-- E.g. related GitLab issues/MRs -->
+<!-- E.g. related GitHub issues/MRs -->
